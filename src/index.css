@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.image-container {
+    display: inline-block;
+}
+
+.image-container > img {
+    width: 100%;
+    height: auto;
+}
